@@ -1,12 +1,6 @@
 //META{"name":"User_Popout","description":"Changes The User Popout Look,Enable This Theme LAST For it To Take Effect","author":"NFLD99","version":"6.0"}*//{}
 
 :root {
---Popout-Main-Colour: rgba(0, 226, 204, 1);
---Popout-Background: url(https://i.imgur.com/DOFpZY5.jpg) ;
---Popout-Text-Shadow-Colour: rgba(0,0,0, .45);
---Popout-Scroller-Colour: red;
-}
-
 /* New UserPopouts */
 .userPopout-4pfA0d .avatar-16XVId {
 background-clip: padding-box!important;
